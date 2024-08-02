@@ -2,7 +2,7 @@ import React from 'react'
 
 const Heading = () => {
   return (
-    <h1 style={{ textAlign: 'center', margin: '40px 0', color: 'white' }}>
+    <h1 style={{ textAlign: 'center', margin: '24px 0', color: 'white' }}>
         Calculator
       </h1>
   )
